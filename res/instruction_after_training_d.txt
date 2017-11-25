@@ -1,0 +1,9 @@
+Vous allez avoir une série de plusieurs labyrinthes à résoudre. 
+
+L'objectif est d’arriver au bout de chacun des labyrinthes et de récupérer le fruit près de la sortie avant de vous faire attraper par le fantôme du labyrinthe.
+Il est possible que sur le chemin, vous tombiez sur un fruit magique qui vous permettra de finir directement la partie.
+
+Après chacune des parties, il vous sera demandé d'estimer la durée écoulée depuis le début du labyrinthe que vous venez d'effectuer.
+Merci de ne pas compter dans votre tête, si vous le faites, cela risque de modifier nos résultats.
+
+Commençons d'abord avec un petit entraînement.
