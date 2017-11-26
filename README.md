@@ -18,9 +18,11 @@ resolution duration.
 Moreover, the mazes are displayed in a fog, where only the area around the participant's character and the ghost is illuminated. This way, participants have no visual
 clues about the maze’s length.
 
-(for more details for the scientific aspect see: <i>Rattat, A.-C., Matha, P., & Cegarra, J. (submitted). Time flies faster under time pressure</i>). 
+If you use this task in a scientific research, please refer to this citation:<br>
+Rattat, A.-C., Matha, P., & Cegarra, J. (submitted). Time flies faster under time pressure. <br>
+
 <br><br>
-<center><img src="https://github.com/juliencegarra/tpmt/blob/master/example.gif?raw=true"></center>
+<center><img src="https://github.com/juliencegarra/tpmt/blob/master/example.gif?raw=true"><i>Figure 1. The task without time pressure</i></center>
 <br><br>
 The program requires Python 2.x (tested on version 2.7) and the corresponding version of the Pygame library, freely available online. Make sure you install the matching (32- or 64-bit) version of Pygame as your Python installation, and the one compatible with your Python version number.  The program was coded for Windows systems. Some minimal code update will be necessary to run under linux or mac (especially to consider the difference in file systems).
 
