@@ -1,6 +1,6 @@
 
 
-<h1>The TimePressureMazeTask (TMPT)</h1> The TMPT was coded by Julien Cegarra (Prof. in Cognitive Ergonomics/Psychology) for the <a href="https://www.univ-jfc.fr/equipesrecherche/sciences-la-cognition-technologie-ergonomie-scote">Cognition Sciences, Technology, Ergonomics (SCoTE) Laboratory</a>, Albi, France. This program allows to study in a unique task both time estimation and time production, which is a topic of interest in Psychology.
+<h1>The TimePressureMazeTask (TPMT)</h1> The TPMT was coded by Julien Cegarra (Prof. in Cognitive Ergonomics/Psychology) for the <a href="https://www.univ-jfc.fr/equipesrecherche/sciences-la-cognition-technologie-ergonomie-scote">Cognition Sciences, Technology, Ergonomics (SCoTE) Laboratory</a>, Albi, France. This program allows to study in a unique task both time estimation and time production, which is a topic of interest in Psychology.
 <br><br>
 Contact for the program: julien.cegarra AT univ-jfc.fr
 <br><br>
