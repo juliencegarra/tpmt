@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 #!/usr/bin/env python
 
-# MazeTimePressureTask (MTPT)
+# TimePressureMazeTask (TPMT)
 # (c) Julien Cegarra
 
 
