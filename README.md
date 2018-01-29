@@ -19,7 +19,7 @@ Moreover, the mazes are displayed in a fog, where only the area around the parti
 clues about the maze’s length.
 
 If you use this task in a scientific research, please refer to this citation:<br>
-Rattat, A.-C., Matha, P., & Cegarra, J. (submitted). Time flies faster under time pressure. <br>
+Rattat, A.-C., Matha, P., & Cegarra, J. (<i>in press</i>). Time flies faster under time pressure. <i>Acta Psychologica</i><br>
 
 <br><br>
 <center><img src="https://github.com/juliencegarra/tpmt/blob/master/example.gif?raw=true"><i>Figure 1. The task without time pressure</i></center>
