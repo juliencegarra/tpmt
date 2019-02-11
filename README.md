@@ -8,18 +8,14 @@ In this task, participants have to solve a series of mazes. The maze's start pos
 To move through the maze from start to finish, participants have to move the character using the arrow keys of the keyboard.
 The program stops when participants find a magic fruit on their path, which appear at the end of one of the three target durations (30 s, 60 s or 90 s).
 
-Time pressure is induced by a ghost that haunts the participant’s character. More specifically, the ghost move faster and is closer to the participant’s
-character in the condition with time pressure than in the condition without time pressure, but is never able to catch the character up. 
-
+Time pressure is induced by a ghost that haunts the participant’s character. More specifically, the ghost move faster and is closer to the participant’s character in the condition with time pressure than in the condition without time pressure, but is never able to catch the character up. 
 In this task, the participant has to solve three different mazes for three different duration (short (30 s), medium (60 s) and long (90 s)), making a total of nine mazes. 
 We also include three mazes in which participants are always caught up by the ghost and therefore fail to solve the maze.
-All the mazes have exactly the same number of wrong paths with identical features, so that the level of difficulty is similar, regardless of the
-resolution duration.
-Moreover, the mazes are displayed in a fog, where only the area around the participant's character and the ghost is illuminated. This way, participants have no visual
-clues about the maze’s length.
+All the mazes have exactly the same number of wrong paths with identical features, so that the level of difficulty is similar, regardless of the resolution duration.
+Moreover, the mazes are displayed in a fog, where only the area around the participant's character and the ghost is illuminated. This way, participants have no visual clues about the maze’s length.
 
 If you use this task in a scientific research, please refer to this citation:<br>
-Rattat, A.-C., Matha, P., & Cegarra, J. (<i>in press</i>). Time flies faster under time pressure. <i>Acta Psychologica</i><br>
+Rattat, A.-C., Matha, P.*, & Cegarra, J. (2018). Time flies faster under time pressure. <i>Acta Psychologica, 185<i>, 81-86. 
 
 <br><br>
 <center><img src="https://github.com/juliencegarra/tpmt/blob/master/example.gif?raw=true"><i>Figure 1. The task without time pressure</i></center>
