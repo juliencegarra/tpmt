@@ -15,7 +15,7 @@ All the mazes have exactly the same number of wrong paths with identical feature
 Moreover, the mazes are displayed in a fog, where only the area around the participant's character and the ghost is illuminated. This way, participants have no visual clues about the maze’s length.
 
 If you use this task in a scientific research, please refer to this citation:<br>
-Rattat, A.-C., Matha, P.*, & Cegarra, J. (2018). Time flies faster under time pressure. <i>Acta Psychologica, 185<i>, 81-86. 
+Rattat, A.-C., Matha, P., & Cegarra, J. (2018). Time flies faster under time pressure. <i>Acta Psychologica, 185<i>, 81-86. 
 
 <br><br>
 <center><img src="https://github.com/juliencegarra/tpmt/blob/master/example.gif?raw=true"><i>Figure 1. The task without time pressure</i></center>
